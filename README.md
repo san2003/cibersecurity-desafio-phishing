@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e8c1e8e4-befd-4c13-8562-6c421f8ad6b5)# Phishing para captura de senhas
+# Phishing para captura de senhas
 
 ### Ferramentas
 
@@ -12,13 +12,26 @@
 - Mudando para o diretório (zphisher): ``` cd zphisher ```
 - Inicia a ferramenta: ``` bash zphisher.sh ```
 - Escolha a página a ser clonada de sua preferência através dos números:
-  (imagem zphisher opções)
+
+  ![opcoes](hackeado.png)
+
 - Escolha rodar em localhost, cloudflare ou localXpose:
-  (imagem local)
+
+  ![local](local.png)
+
 - Escolha a porta que deseja rodar a ferramenta caso queira e pronto, a ferramenta está rodando.
-  (site rodando)
+  
+  ![rodando](rodando.png)
   
 
-### Resutados
+### Resutados:
+  ![Texto Alternativo](hackeado.png)
+  ![web](web.png)
+  ![mobile](mobile.png)
 
-![Alt text](./passwd.png "Optional title")
+## Por que escolhi esta ferramenta?
+
+- **Amigável para iniciantes**: Interface simples e fácil de usar.
+- **Várias opções de tunelamento**: Suporte a Cloudflared, LocalXpose e localhost.
+- **Suporte a mascaramento de URL**: Aprenda como links podem ser disfarçados.
+- **Compatível com Docker**: Configuração rápida e consistente.
