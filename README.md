@@ -32,6 +32,6 @@
 ## Por que escolhi esta ferramenta?
 
 - **Amigável para iniciantes**: Interface simples e fácil de usar.
-- **Várias opções de tunelamento**: Suporte a Cloudflared, LocalXpose e localhost.
+- **Várias opções de hosteamento**: Suporte a Cloudflared, LocalXpose e localhost.
 - **Suporte a mascaramento de URL**: Aprenda como links podem ser disfarçados.
 - **Compatível com Docker**: Configuração rápida e consistente.
